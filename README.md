@@ -45,7 +45,7 @@ This is a real-time chat application built using the MERN stack (MongoDB, Expres
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/mern-stack-chat-app.git
+    git clone https://github.com/amal2000-cse/MERN_chatapp
     ```
 
 2. Navigate to the project directory:
