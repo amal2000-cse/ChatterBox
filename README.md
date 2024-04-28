@@ -1,4 +1,4 @@
-# MERN Stack Chat Application
+# ChatterBox
 
 This is a real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It features real-time messaging using Socket.io for communication between clients and the server. The application allows users to sign up, log in, and chat with other users who have accounts on the platform. Users can also see which other users are online. Additionally, the application includes features such as separate avatars for different users and displaying the time of message send under each message.
 
